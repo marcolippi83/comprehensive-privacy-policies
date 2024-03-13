@@ -1,1 +1,1 @@
-# comprehensive-privacy-policies
+This repository contains supplementary material for the paper "Reconciling Comprehensiveness and Comprehensibility of Privacy Policies: Rethinking the Law and Harnessing the Power of LLMs" submitted to the "Artificial Intelligence and Law" journal, for the special issue "Applications and Evaluation of Large Language Models in the Legal Domain"
