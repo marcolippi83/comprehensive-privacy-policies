@@ -1,0 +1,46 @@
+gpt-4-1106-preview ended with: stop
+Tokens used: 5235  +  701  =  5936
+Q1: Deliveroo processes the following data about you:
+
+- Your name, contact details, delivery address, order details, loyalty scheme details where applicable, and payment information such as credit or debit card details.  
+- Date of birth to verify your age for age-restricted purchases.  
+- Information from your interactions, such as requests for marketing information, Deliveroo initiatives communications, or feedback.  
+- Information from account creation and settings changes.  
+- Participation details in competitions, promotions, or prize draws.  
+- Browsing and usage data on the Sites before and after account creation.  
+- Information from third-party sites like social media platforms and fraud detection provider, such as your social media handle based on your settings.   
+- Contact details provided by employers for Deliveroo for Work.  
+- Health information that you volunteer, for example, food allergies.  
+- Device and technical information, such as operating system, device type, IP address, carrier data, location data, and interaction with retail technology.  
+
+Q2: Deliveroo uses your email address:
+
+- To contact you concerning services such as resolving issues with your order.
+- To send you comments and feedback requests concerning partners’ services/products.
+- To provide important updates or developments to the services.
+- For marketing purposes (only with your consent or a legitimate business interest), such as sending information about products, services, promotions, and Deliveroo initiatives.
+- To let you know that Deliveroo's services are operating in a new area if you have requested this information.
+- To complete surveys that may improve our service’s effectiveness, with aggregated results possibly used for marketing or advertising.
+
+Q3: The text does not explicitly state that Deliveroo shares your geolocation data with any specific third parties. However, Deliveroo collects technical information such as location data from your mobile device which may be necessary to provide and improve services.
+
+Q4: Deliveroo processes data based on consent for the following purposes:
+
+- To handle health information that you volunteer, such as specific food allergies after placing an order.
+- To share incident-related information, like food allergies or delivery incidents with partners, when you permit it for investigation purposes.
+
+Q5: It is not specifically stated that Deliveroo shares data with Facebook. However, Deliveroo engages in online advertising and works with Advertising Partners like Meta, which owns Facebook, to serve ads and measure interactions, which may imply some level of data sharing for advertising effectiveness.
+
+Q6: The text does not mention Deliveroo sharing data with insurers directly.
+
+Q7: Deliveroo collects the following categories of data about you automatically:
+
+- Device and technical information such as operating system, device type, IP address.
+- Mobile device information, carrier data, and location data.
+- Interaction with retail technology such as NFC tags, QR codes, or mobile vouchers.
+- Technical information about the use of services through a mobile device.
+- Browsing and usage data on the Sites.
+
+Q8: To exercise your rights, you can contact Deliveroo's Data Protection Officer in writing at dpo@deliveroo.com.
+
+Q9: Deliveroo retains your delivery address information as long as is reasonably necessary to fulfill the purposes collected for, satisfy legal, regulatory, tax, accounting, or reporting requirements, and potentially longer in the case of complaints or litigation. The specific retention period is not given but is determined by considering factors like contractual obligations and rights, legal obligations, statute of limitations, legitimate interests, potential disputes, and guidelines from data protection authorities.

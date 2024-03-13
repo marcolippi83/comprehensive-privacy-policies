@@ -1,0 +1,19 @@
+gpt-4-1106-preview ended with: stop
+Tokens used: 5585  +  675  =  6260
+Q1: JustEat processes various categories of your data when you interact with their services including name, address data, contact data, order and transaction data, payment data, and any sensitive personal data you may provide related to health, religion, medical conditions, or sexual orientation when placing an order. They process this data for several purposes such as executing and confirming orders, processing payments, handling refunds, providing delivery services, generating accurate bills, contacting you if necessary, processing Partner and/or courier reviews, and verifying age and identity for the sale and delivery of restricted products.
+
+Q2: JustEat uses your email address for various purposes, including to confirm your order, process transactions and refunds, contact you as necessary, provide customer support, handle complaints, conduct customer surveys, send marketing communications and personalized offers, administer loyalty programs, prevent fraud, conduct analytics and improve services, and communicate with you in the context of JET for Business allowances and marketing campaigns.
+
+Q3: JustEat shares your geolocation with third parties for analytical purposes to improve services and to provide personalized content based on your location, such as selecting available Partners in your local area.
+
+Q4: Personal data processed on the basis of consent includes sensitive personal data revealed through orders, such as information about health, dietary requirements, religion, medical conditions, and sexual orientation. Your consent is also the basis for collecting and processing data when submitting reviews of Partners and/or couriers, participating in customer surveys, receiving marketing communications, participating in loyalty programs, and when JustEat promotes third-party offers, products, and services.
+
+Q5: JustEat shares data with Facebook and other social media platforms as part of their activities to promote, market, or support their services. This may include technical data about your equipment, browsing activities, patterns, and preferences to measure the performance of marketing campaigns and to personalize the services offered to you.
+
+Q6: JustEat may share your data with insurers if it's appropriate or required by applicable law, regulation, or when disclosure is necessary to comply with legal obligations, to exercise, establish or defend legal rights, or to protect the vital interests of any person.
+
+Q7: Categories of data JustEat collects about you automatically may include technical data about your equipment, browsing activities, and patterns. They collect this data through cookies, server logs, and other similar technologies. They may also collect data from your use of social media sites to create or link your account, which may give them access to personal data held by those sites.
+
+Q8: If you want to exercise your rights regarding your personal data, you should contact JustEat via their privacy form. Specifically, for Just Eat for Business (City Pantry Ltd), Menulog Pty Ltd, Just Eat UK, and Takeaway.com Group B.V., they have provided contact links respectively. The Data Protection Officer of JustEat Takeaway.com at Takeaway.com Group B.V. can also be contacted at the Amsterdam address provided.
+
+Q9: The text does not specify the exact retention period for personal data such as your delivery address. It states that JustEat will keep your personal data as long as necessary to fulfill the purposes for which it was collected, including any legal, tax, accounting, or reporting requirements. After the necessary period, they might anonymize your data so it cannot be associated with you and may be used without further notice.

@@ -1,0 +1,28 @@
+gpt-4-1106-preview ended with: stop
+Tokens used: 14314  +  708  =  15022
+Q1: What data does Doordash process about me?
+A1: DoorDash may process various types of personal information, including but not limited to name, email address, postal/delivery address, account name, phone number, signature, date of birth, biometric data, transactional/commercial information, financial account or payment information, survey response data, identification documentation, access credentials, loyalty account information, sensory information, employment and professional information, and sensitive personal information. 
+
+Q2: For what purposes does Doordash use my email address?
+A2: DoorDash uses your email address for several purposes. These include registering you with DoorDash, searching within, or placing orders through the Services, contacting them with inquiries, engaging with their chatbot on platforms and engaging in communications related to the Services. They may also use your email to send you promotional offerings or other communications, respond to your questions and requests, send you transactional and relationship communications about the Services, and comply with legal and regulatory requirements. 
+
+Q3: Who does DoorDash share my geolocation with?
+A3: DoorDash may share your geolocation data with Dashers to facilitate delivery of your orders. They may also use geolocation data to help you select your delivery address, to provide more accurate deliveries, to provide recommendations, and to enhance your user experience.
+
+Q4: What types of data are processed on the basis of consent, and for what purposes?
+A4: The document states that sensitive personal information (including precise geolocation) is processed and that consent is one of the legal bases for certain processing activities. These processing activities include where DoorDash uses or discloses sensitive personal information for purposes other than to perform the services expected by an average consumer, for security and legal reasons, or for other purposes permitted by law.
+
+Q5: What data does DoorDash share with Facebook?
+A5: In connection with linking or connecting your user account(s) with DoorDash's Services to your Facebook account, DoorDash may share certain of your information with Facebook to facilitate your use of Facebook and for other purposes as per Facebook's privacy policy.
+
+Q6: Does DoorDash share my data with insurers?
+A6: The document does not specifically mention DoorDash sharing data with insurers.
+
+Q7: What categories of data does DoorDash collect about me automatically?
+A7: DoorDash automatically collects technical information like browser and operating system details, IP address and device identifiers, usage information such as webpages visited before accessing their platforms and what features you browsed on their platforms, and platform preferences.
+
+Q8: How can I contact DoorDash if I want to exercise my rights?
+A8: To contact DoorDash for exercising your rights, you can send an email to privacy@doordash.com or use the following address: DoorDash, Inc., Attn: Legal, 303 2nd St, Suite 800, San Francisco, CA 94107. You may also use the form at: https://help.doordash.com/consumers/s/contactsupport.
+
+Q9: How long does DoorDash keep my delivery address?
+A9: The document does not specify the exact duration that DoorDash keeps your delivery address. However, it indicates that DoorDash retains personal information based on various factors including the duration necessary to fulfill the purposes for which the information was collected, as long as it maintains a business relationship with the individual or the company they are associated with, and other considerations such as legal compliance and retention periods.

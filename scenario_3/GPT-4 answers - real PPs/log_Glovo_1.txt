@@ -1,0 +1,66 @@
+gpt-4-1106-preview ended with: stop
+Tokens used: 18492  +  777  =  19269
+Q1: What data does Glovo process about me?
+
+A1: Glovo processes various types of data about you including:
+
+- Registration Data (username and email)
+- User Profile Information (phone number, delivery address)
+- Payment information (card data processed by payment service providers; Glovo has access only for legal compliance)
+- Additional information you supply (e.g., photograph, billing address if requesting invoices)
+- Previous communications with Glovo (for resolving queries or complaints)
+- Information regarding accidents (for insurance claims or other actions)
+- Transcriptions and recordings of conversations with Glovo
+- Communications with couriers on the Glovo platform
+- Data arising from the use of the platform (IP address, device information, browsing history)
+- Geolocation Data (if consented to by the user)
+
+Q2: For what purposes does Glovo use my email address?
+
+A2: Glovo uses your email address for the following purposes:
+
+- To create your account on the Glovo Platform
+- To communicate with you about your orders, updates to services, terms and conditions, privacy policy, and other relevant non-marketing communications
+- To manage and execute your requests concerning the exercise of GDPR rights
+- For marketing and commercial communications, if you have consented to receive them
+
+Q3: Who does Glovo share my geolocation with?
+
+A3: Glovo may share your geolocation with:
+
+- Couriers, to allow them to deliver your orders
+- Payment Platforms and payment service providers
+- Service providers that Glovo uses to facilitate its services
+- Telecommunications service providers
+
+Q4: What types of data are processed on the basis of consent, and for what purposes?
+
+A4: Glovo processes data based on consent for the following purposes:
+
+- Marketing and commercial communications, including personalized offers, promotions, discounts, and suggestions sent via email or through other communication means
+- Geolocation data processing, to locate the nearest Partners and Couriers and monitor malicious or unsafe activities
+
+Q5: What data does Glovo share with Facebook?
+
+A5: Glovo may share your personal data with Facebook to create custom audiences to reach you or others with similar characteristics for advertising purposes, only if you have given explicit consent.
+
+Q6: Does Glovo share my data with insurers?
+
+A6: Yes, Glovo may share your data with insurers for the management and processing of claims and losses related to Glovo's activity and those collaborating with it.
+
+Q7: What categories of data does Glovo collect about me automatically?
+
+A7: Glovo automatically collects the following categories of data:
+
+- IP address used to connect your device to the internet, browser type, operating system, device type, browsing data, and preferences
+- Data on the application and device, including a full URL Clickstream
+- Data about your activity on the Platform, including the navigation on the website or Application, links followed, etc.
+- Data from cookies and similar tracking technologies
+
+Q8: How can I contact Glovo if I want to exercise my rights?
+
+A8: To exercise your rights, you can contact Glovo using the form available on their main website glovoapp.com>>Contact us>>Policies or in the App by going to Help>>Not related to an order>>Policies. You can also send an email to gdpr@glovoapp.com.
+
+Q9: How long does Glovo keep my delivery address?
+
+A9: Glovo keeps your delivery address for the duration of the contractual relationship with you. After the end of the relationship, they keep it for the period established by law to comply with legal obligations and defend against legal actions, which is a maximum of fifteen years. The actual retention period may be shorter depending on the legal provision applicable to each purpose of data processing, as detailed in Annex I of the privacy policy.
