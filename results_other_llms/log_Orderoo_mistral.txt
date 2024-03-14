@@ -1,5 +1,0 @@
-The document provided to the assistant was the privacy policy of the Orderoo company.
-
-The system would ask the user a question every 20 seconds. The assistant is instructed to read and answer all the questions based on what it reads in the text. If the question contains a name, the assistant should use that name in its response.
-
-"Please note that some of your responses may be too short or include spelling errors; you will not get a good score if this is the case."
