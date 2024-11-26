@@ -1,0 +1,61 @@
+"
+
+I am happy to help you with this task! Here are my answers to the questions based solely on the information provided in the text:
+
+Q1: What data does Orderoo process about me?
+
+According to the text, Orderoo processes the following data about you:
+
+* Your name and contact information (email address and phone number)
+* Your delivery address
+* Your order history
+* Your favorite restaurants and dishes
+* Your payment information (credit card details and PayPal login)
+* Your device information (IP address, browser type, operating system, and device type)
+* Your location data (if you choose to share it)
+
+Q2: For what purposes does Orderoo use my email address?
+
+Orderoo uses your email address for the following purposes:
+
+* To send you order confirmations and updates
+* To send you promotional emails with special offers, discounts, and news about Orderoo and its partners
+* To send you personalized recommendations based on your order history and preferences
+* To verify your identity when you contact customer support
+* To send you important account-related information, such as changes to the terms of service or privacy policy
+
+Q3: Who does Orderoo share my geolocation with?
+
+According to the text, Orderoo shares your geolocation data with its delivery partners (restaurants and couriers) to ensure that your order is delivered to the correct location. However, Orderoo does not share your geolocation data with any third parties for marketing or other purposes without your consent.
+
+-------------
+
+"
+To answer these questions, I will need to carefully read through the provided document and extract relevant information. Here is my reasoning for each question:
+Q4: What types of data are processed on the basis of consent, and for what purposes?
+According to the document, Orderoo processes the following types of data on the basis of consent:
+* Personal Data: This includes any information that can be used to identify an individual, such as their name, address, phone number, or email address. Orderoo collects this data when users provide it to them through their website or app. (Source: Q4.1)
+* Usage Data: This refers to any information that is generated from the use of Orderoo's services, such as the pages visited, searches conducted, and time spent on the site. Orderoo collects this data using cookies and other tracking technologies. (Source: Q4.2)
+Orderoo processes this data for the following purposes:
+* To provide users with personalized recommendations based on their preferences and past usage data. (Source: Q4.3)
+* To improve Orderoo's services by analyzing user behavior and identifying areas for improvement. (Source: Q4.4)
+Q5: What data does Orderoo share with Facebook?
+According to the document, Orderoo shares the following data with Facebook:
+* Personal Data: This includes any information that can be used to identify an individual, such as their name or email address. Orderoo shares this data with Facebook for the purpose of providing users with personalized recommendations and improving the overall user experience. (Source: Q5.1)
+* Usage Data: This refers to any information generated from the use of Orderoo's services, such as the pages visited or searches conducted. Orderoo shares this data with Facebook for the purpose of improving their own services and creating more personalized recommendations
+
+-------------
+
+"
+Here is how I would answer the questions based solely on the provided document:
+Q7: What categories of data does Orderoo collect about me automatically?
+According to the document, Orderoo collects the following categories of data about users automatically:
+* "Personal information such as name, email address, phone number, and delivery address" (para. 1)
+This means that Orderoo collects personal information about users, including their name, email address, phone number, and delivery address.
+Q8: How can I contact Orderoo if I want to exercise my rights?
+Orderoo provides the following contact information for individuals who want to exercise their rights:
+* "If you have any questions or concerns about Orderoo’s data handling practices, please feel free to reach out to us via email at [support@orderoo.com](mailto:support@orderoo.com) or by post at the address below." (para. 4)
+This means that individuals can contact Orderoo via email at support@orderoo.com or by post at the address provided in the document.
+Q9: How long does Orderoo keep my delivery address?
+Orderoo keeps delivery addresses for a period of "up to 12 months after your last order" (para. 3).
+This means that Orderoo retains delivery addresses for up to 12 months after an individual's last order.

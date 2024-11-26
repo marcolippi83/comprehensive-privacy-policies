@@ -1,0 +1,93 @@
+gpt-4-1106-preview ended with: stop
+Tokens used: 8506  +  790  =  9296
+Q1: Orderoo processes the following categories of personal data about you: 
+
+1. Your email address
+2. Your name and surname
+3. Your password
+4. Your birthdate
+5. Your phone number
+6. Your default delivery address
+7. Each delivery address
+8. Details of your order (what you buy)
+9. The price you pay
+10. Your payment information
+11. Your ratings of the orders
+12. Your complaints
+13. Your geolocation
+14. Your food interests
+15. Your content preferences
+16. Time spent using the Orderoo app
+17. Frequency of using the Orderoo app
+18. The content of correspondence with delivery persons
+19. Your IP address
+20. Your system language
+21. Your country of residence
+22. Recordings of calls you make to customer service
+23. Your device model
+24. Information about your contacts from your phone’s contact list
+25. Your language preferences
+26. Information about your dietary restrictions and food allergies
+27. Error reports
+
+Q2: Orderoo uses your email address for the following purposes:
+
+1. As a unique identifier to set up and log into your account
+2. To allow you to reset your password
+3. To send you receipts of your orders
+4. To send you advertisements of Orderoo's services
+5. To distribute third-party marketing
+6. To track transaction history
+7. To profile you for various purposes
+8. To facilitate communication and outsource email server operations
+9. For accounting, reviewing financial records, and keeping them in order
+10. For fraud detection
+
+Q3: Orderoo shares your geolocation with:
+
+1. Delivery persons (processors) for order delivery
+2. Vendors close to you (controllers) for marketing purposes
+3. Facebook (controller) for ad delivery effectiveness
+4. Google (controller) for ad delivery effectiveness
+
+Q4: Orderoo processes the following data on the basis of consent and for the following purposes:
+
+1. Your default delivery address: For delivery address suggestion and vendor suggestions.
+2. Your geolocation: For delivery address suggestion, vendor suggestion, and delivery tracking.
+3. Information about your contacts from your phone’s contact list: To enable you to invite friends to use the app and to verify the use of Orderoo referral codes.
+4. Information about dietary restrictions and food allergies: To improve app search functionality, personalize search filters, and highlight potential allergen concerns.
+
+Q5: Orderoo shares the following data with Facebook:
+
+1. Your default delivery address
+2. Each of your delivery addresses
+3. The price you pay
+4. The details of your order
+5. Your ratings of the orders
+6. Your geolocation
+7. Your food interests
+8. Your content preferences
+9. Your system language
+10. Your country of residence
+
+Q6: There is no mention of Orderoo sharing data with insurers in the provided privacy policy text.
+
+Q7: Orderoo automatically collects the following categories of data about you:
+
+1. Your geolocation
+2. Your food interests
+3. Your content preferences
+4. Time spent using the Orderoo app
+5. Frequency of using the Orderoo app
+6. Your IP address
+7. Your system language
+8. Your device model
+9. Error reports
+
+Q8: You can contact Orderoo to exercise your rights by:
+
+- Emailing the Data Protection Officer at dpo@orderoo.com.
+- Writing to privacy@orderoo.com.
+- Using the physical address: Orderoo Inc., 1 Name Street, 40121, Bologna, Italy.
+
+Q9: Orderoo keeps your delivery address (both the default and each address provided with orders) for as long as you use their services, i.e., until you delete your account, plus an additional three months.

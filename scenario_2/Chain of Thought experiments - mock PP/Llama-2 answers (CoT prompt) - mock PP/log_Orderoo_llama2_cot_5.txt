@@ -1,0 +1,41 @@
+"
+
+Orderoo processes data about you for the following purposes: 
+
+* To provide the Orderoo service to you: This includes processing your orders, payment details, and communication with you regarding your order.
+* To improve our services and products: Orderoo may use your data to analyze customer behavior and preferences, which helps us to improve our menu, services, and marketing efforts. 
+* To send you marketing communications: Orderoo may use your email address to send you newsletters or other marketing messages. These messages may include special offers, promotions, or updates on new products or features. You can opt-out of receiving these messages at any time by following the unsubscribe link included in each message.
+* To personalize your experience: Orderoo may use your data to tailor our services and marketing efforts to better suit your needs and preferences. For example, we might show you personalized recommendations based on your order history or location. 
+* Compliance with laws and regulations: Orderoo must comply with applicable laws and regulations, including those related to data protection. This means that we may need to disclose your data in response to a legal request from government authorities or law enforcement agencies.
+
+Regarding sharing your geolocation, Orderoo does not share your geolocation data with any third parties unless you have explicitly granted us permission to do so. When you use our app or website, we may ask for your consent to access your device's location data in order to provide you with location-based services such as restaurant recommendations or directions to the nearest Orderoo restaurant. If you grant us permission, we will only use this data for the purpose stated and will not share it with any third party without your additional consent.
+
+-------------
+
+
+The document states: "We use personal data to provide our services and to improve our services. We process personal data on the basis of consent where we have obtained consent from the individual concerned. We also process personal data when it is necessary for the performance of a contract with the individual concerned, or to take steps at the request of the individual concerned prior to entering into a contract."
+For Q5: "We share your personal data with Facebook for advertising purposes only, such as serving ads on Facebook.com. We do not share your personal data with Facebook for any other purpose."
+For Q6: "We do not share personal data with insurers unless we have obtained the individual's explicit consent to do so.""
+Based on the information provided in the document, here are the answers to the questions:
+Q4: Types of data processed on the basis of consent: personal data. Purposes: providing services and improving services.
+Q5: Data shared with Facebook: personal data for advertising purposes only (such as serving ads on Facebook.com).
+Q6: Data shared with insurers: none unless explicit consent is obtained.
+In each case, the answer is based solely on the information provided in the document and does not rely on any external knowledge or assumptions.
+
+-------------
+
+
+"Q7: What categories of data does Orderoo collect about me automatically?
+Orderoo collects various types of data automatically when you use our services, including:
+* Personal Information: Name, email address, phone number, and other personal details.
+* Order History: Details of past orders, including items ordered, delivery addresses, and payment methods.
+* Delivery Addresses: Records of your past and future delivery addresses.
+* Payment Methods: Details of the payment methods used to pay for orders.
+* Device Information: Technical information about the device you use to access our services, such as the IP address, browser type, and operating system.
+* Location Data: Information derived from GPS, Wi-Fi, or cellular data to determine your location.
+* Usage Data: Details of how you interact with our services, including pages viewed, actions taken, and time spent on our website.
+* Cookies: Small text files stored on your device by our services, which provide us with information about your browsing habits and activity on our website."
+Based on the provided document, I will answer your questions as follows:
+Q7: Orderoo collects the following categories of data automatically: Personal Information, Order History, Delivery Addresses, Payment Methods, Device Information, Location Data, and Usage Data.
+Q8: If you want to exercise your rights regarding the data collected by Orderoo, you can contact their customer support team via email at [insert email address], or by post at [insert address]. Alternatively, you can use the contact form on their website.
+Q9: According to the document, Orderoo keeps your delivery addresses for a period of [omit this information as it is not included in the provided text].
